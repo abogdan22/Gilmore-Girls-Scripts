@@ -1,2 +1,2 @@
-# Gilmore_Girls-Scripts
+# GilmoreGirls-Scripts
 Gilmore Girls Episode Scripts
